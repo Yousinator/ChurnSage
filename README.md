@@ -1,4 +1,6 @@
 # ChurnSage: Advanced Customer Churn Prediction
+> [!Warning]
+> Repo archived as it has reached its final development phase, if you are interested in the project make sure to contact me anytime.
 
 ChurnSage is an AI-powered tool designed to predict customer churn with high accuracy. Leveraging a real dataset, the project involves extensive data cleaning, preprocessing, and model development using Python and [PrismaML](https://github.com/Yousinator/PrismaML). The best performing model is deployed through an interactive Gradio interface, making it accessible and user-friendly.
 
